@@ -1,5 +1,5 @@
 variable "git-name" {
-  default = "hasim7025"
+  default = "gitusername_here"
 }
 
 variable "git-token" {
@@ -7,9 +7,9 @@ variable "git-token" {
 }
 
 variable "key-name" {
-  default = "firstkey"
+  default = "keyname_here"
 }
 
 variable "hosted-zone" {
-  default = "hasimkoc.com"
+  default = "yourwebsite_here"
 }
